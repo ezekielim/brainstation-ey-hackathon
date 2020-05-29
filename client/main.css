@@ -146,6 +146,7 @@ body {
 .onboarding__inner-content .onboarding__btn {
   width: 434px;
   height: 48px;
+  font-size: 18px;
   background-color: #ffffff;
 }
 
@@ -162,5 +163,28 @@ body {
   color: #000000;
   position: relative;
   top: -6rem;
+}
+
+.onboarding__inner-content .sentence {
+  width: 318px;
+  height: 21px;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.onboarding__inner-content .onboarding__check-list ul li {
+  list-style: none;
+}
+
+.onboarding__inner-content .checkbox {
+  width: 40px;
+  height: 40px;
+  background-color: #ffffff;
 }
 /*# sourceMappingURL=main.css.map */
