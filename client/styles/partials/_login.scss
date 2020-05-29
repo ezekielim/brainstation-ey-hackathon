@@ -4,12 +4,56 @@
   border-radius: 5px;
   border: solid 0.3px #000000;
   background-color: #c4c4c4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
   &__main-title-text {
     width: 292px;
     height: 38px;
     font-family: Roboto;
     font-size: 32px;
     font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  &__signin-container {
+    width: 434px;
+    height: 48px;
+    background-color: #ffffff;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  &__container-text {
+    // width: 266px;
+    height: 21px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  &__divider-line {
+    width: 434px;
+    height: 3px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 35px;
+  }
+  &__already-have-text {
+    width: 208px;
+    height: 16px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
