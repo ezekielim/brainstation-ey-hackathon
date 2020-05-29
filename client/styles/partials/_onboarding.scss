@@ -1,0 +1,17 @@
+.onboarding-body {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  bottom: -15rem;
+  .onboarding {
+    width: 660px;
+    height: 423px;
+    border-radius: 5px;
+    border: solid 0.3px #000000;
+    background-color: #c4c4c4;
+  }
+}
