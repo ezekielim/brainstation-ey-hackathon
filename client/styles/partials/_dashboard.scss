@@ -1,0 +1,30 @@
+.dash-body {
+  width: 1440px;
+  height: 100%;
+  display: flex;
+}
+.public-statement {
+  width: 660px;
+  height: 195px;
+  border-radius: 10px;
+  background-color: #dcecff;
+}
+.combined {
+  width: 660px;
+  height: 783px;
+  display: flex;
+  flex-direction: column;
+}
+.review {
+  width: 660px;
+  height: 195px;
+  border-radius: 10px;
+  background-color: #dcecff;
+}
+.complaince {
+  width: 660px;
+  height: 568px;
+  margin-left: 200px;
+  border-radius: 10px;
+  background-color: #dcecff;
+}
