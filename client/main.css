@@ -1,1 +1,29 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.loginpage {
+  width: 660px;
+  height: 423px;
+  border-radius: 5px;
+  border: solid 0.3px #000000;
+  background-color: #c4c4c4;
+}
+
+.loginpage__main-title-text {
+  width: 292px;
+  height: 38px;
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+/*# sourceMappingURL=main.css.map */
